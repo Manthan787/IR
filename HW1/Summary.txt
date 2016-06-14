@@ -1,0 +1,7 @@
+OkapiTF                         0.1998
+TFIDF                           0.2416
+okapiBM25                       0.2432
+Laplace                         0.2020
+JM                              0.2123
+BM25-pseudo-relevance-feedback  0.2452
+Okapi-pseudo-relevance-feedback 0.2053

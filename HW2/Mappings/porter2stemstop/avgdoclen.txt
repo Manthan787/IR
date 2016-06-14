@@ -1,0 +1,1 @@
+AVG LENGTH = 272

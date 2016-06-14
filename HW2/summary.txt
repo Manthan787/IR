@@ -1,0 +1,17 @@
+Index Type: Stemmed, no Stopwords
+Index Size: 206 MB
+
+OkapiBM25 - 0.2430
+TFIDF     - 0.2438
+JM        - 0.2149
+
+
+Index Type: Nonstemmed, With Stopwords
+Index Size: 306 MB
+
+
+OkapiBM25 - 0.1894
+TFIDF     - 0.1842
+JM        - 0.1737
+
+

@@ -1,0 +1,32 @@
+
+Queryid (Num):       25
+Total number of documents over all queries
+    Retrieved:     2488
+    Relevant:      1832
+    Rel_ret:        602
+Interpolated Recall - Precision Averages:
+    at 0.00       0.7646
+    at 0.10       0.5418
+    at 0.20       0.4185
+    at 0.30       0.3327
+    at 0.40       0.2927
+    at 0.50       0.2374
+    at 0.60       0.1470
+    at 0.70       0.1060
+    at 0.80       0.0721
+    at 0.90       0.0355
+    at 1.00       0.0291
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.2432
+Precision:
+  At    5 docs:   0.4880
+  At   10 docs:   0.4440
+  At   15 docs:   0.4000
+  At   20 docs:   0.3820
+  At   30 docs:   0.3587
+  At  100 docs:   0.2408
+  At  200 docs:   0.1204
+  At  500 docs:   0.0482
+  At 1000 docs:   0.0241
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2960
